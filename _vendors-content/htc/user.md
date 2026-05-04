@@ -1,4 +1,4 @@
----
+qq---
 manufacturer:
     - htc
 
